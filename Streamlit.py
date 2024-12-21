@@ -8,7 +8,7 @@ import missingno as msno
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-url = 'https://raw.githubusercontent.com/Jonuele/ProyectoFinal_DATA/de4be10172ac5c1863247fa47d7ccdc76952714d/Historico%20Tesla.xlsx'
+url = 'https://github.com/Jonuele/ProyectoFinal_DATA/raw/de4be10172ac5c1863247fa47d7ccdc76952714d/Historico%20Tesla.xlsx'
 
 data = pd.read_excel(url, engine='openpyxl')
 #print(data.head())
