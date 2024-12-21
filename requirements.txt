@@ -3,3 +3,9 @@ streamlit
 matplotlib
 pandas
 numpy
+pandas_ta
+missingno
+seaborn
+tensorflow
+keras
+sklearn
