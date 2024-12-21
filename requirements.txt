@@ -8,4 +8,4 @@ missingno
 seaborn
 tensorflow
 keras
-sklearn
+scikit-learn
